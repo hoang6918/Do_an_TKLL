@@ -1,2 +1,2 @@
 # Do_an_TKLL
-Đề tài: Nhà thông minh đơn giản 
+Đề tài: Nhà thông minh đơn giản.
